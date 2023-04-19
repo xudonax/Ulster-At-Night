@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2505aeb6fc2ed7e7",
+        "id": "4bafdc1a8471c754",
         "type": "tabs",
         "children": [
           {
-            "id": "74fdb81963817700",
+            "id": "63096e15b04ed82b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timeline/Index.md",
+                "file": "Ulster at Night.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "345bd783670fe449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mindmap.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 365.5
   },
   "right": {
     "id": "e0eb56e47f5711ce",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timeline/Index.md",
+                "file": "Mindmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timeline/Index.md",
+                "file": "Mindmap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timeline/Index.md"
+                "file": "Mindmap.md"
               }
             }
           },
@@ -156,11 +169,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "74fdb81963817700",
+  "active": "345bd783670fe449",
   "lastOpenFiles": [
     "Ulster at Night.md",
+    "Mindmap.md",
+    "Timelines/Ireland/Early Christian Ireland.md",
+    "Timelines/Timeline.md",
     "Timeline/Index.md",
-    "Timeline/Ireland/Early Christian Ireland.md",
     "Factions/Religious/Catholic.md",
     "Media/Images/Roman Catholic Church.png",
     "Media/Images",
@@ -169,7 +184,7 @@
     "Media2/Images",
     "Media2",
     "Untitled",
-    "Timeline/Ireland",
+    "Timelines/Ireland",
     "Media/New folder",
     "New folder",
     "Factions/Religious/Protestant.md",

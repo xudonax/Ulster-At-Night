@@ -2,5 +2,7 @@
   "accentColor": "",
   "enabledCssSnippets": [
     "timeilne-snippet"
-  ]
+  ],
+  "cssTheme": "ITS Theme",
+  "theme": "moonstone"
 }
