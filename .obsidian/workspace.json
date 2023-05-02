@@ -23,6 +23,16 @@
             "id": "5917e8c61f18d3bd",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Media/Images/Events/1972/Edward_Daly_Bloody_Sunday.jpg"
+              }
+            }
+          },
+          {
+            "id": "c664f94614c7aa7d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Ulster at Night.md",
@@ -32,31 +42,19 @@
             }
           },
           {
-            "id": "36fc611a1e4d1edc",
+            "id": "c72e664a77a6bc03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Ian Paisley.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a676a233c6ef10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md",
+                "file": "Geography/Northern Ireland.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md",
+                "file": "Ulster at Night.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md",
+                "file": "Ulster at Night.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md"
+                "file": "Ulster at Night.md"
               }
             }
           },
@@ -193,43 +191,49 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "6a676a233c6ef10b",
+  "active": "c664f94614c7aa7d",
   "lastOpenFiles": [
+    "Timelines/The Troubles/1972/January/Bloody Sunday.md",
+    "Media/Images/Events/1972/Edward_Daly_Bloody_Sunday.jpg",
+    "Timelines/The Troubles/1972/January",
+    "Timelines/The Troubles/1972",
+    "Ulster at Night.md",
+    "Media/Images/Events/1972",
+    "Geography/Northern Ireland.md",
+    "People/Ian Paisley.md",
+    "Ulster.md",
+    "Geography",
     "Factions/Political/Ulster Protestant Action.md",
+    "Factions/Religious/Catholic.md",
     "Factions/Political/Protestant Unionist Party.md",
     "Factions/Political/Democratic Unionist Party.md",
-    "World Features/Peace walls.md",
-    "People/Ian Paisley.md",
-    "Timelines/The Troubles/1969/August/August 1969 riots.md",
+    "Factions/Religious/Protestant.md",
+    "Media/Images/Organisations/Religious/Free Presbyterian Church of Ulster.png",
+    "Media/Images/Organisations/Religious/Roman Catholic Church.png",
     "Timelines/Timeline.md",
+    "Timelines/Ireland/Early Christian Ireland.md",
+    "Media/Images/People/Ian Paisley.jpg",
+    "Timelines/The Troubles/1998/May/Good Friday Agreement.md",
+    "Timelines/The Troubles/1998/May",
+    "Timelines/The Troubles/1998.md",
+    "Timelines/The Troubles/1998",
+    "Mindmap.md",
+    "Timelines/The Troubles/1969/August/August 1969 riots.md",
+    "World Features/Peace walls.md",
     "Media/Images/Events/1969/Police clash with rioters in Bogside district in Derry.jpg",
     "Media/Images/Events/1969/Pasted image 20230501215016.jpg",
     "Media/Images/Events/1969",
     "Media/Images/Events",
-    "Ulster at Night.md",
     "Timelines/The Troubles/1969/August",
     "Timelines/The Troubles/1969",
-    "Timelines/The Troubles",
-    "Media/Images/Organisations/Religious/Free Presbyterian Church of Ulster.png",
     "Media/Images/Organisations/Untitled.md",
-    "Media/Images/Organisations/Religious",
     "Ian Paisley.jpg.md",
     "DUP.md",
     "PUP.md",
     "Media/Images/Organisations/Democratic Unionist Party.png",
-    "Media/Images/Organisations",
-    "Media/Images/People/Ian Paisley.jpg",
-    "Media/Images/People",
     "Sessions/Session 0.md",
-    "Timelines/Ireland/Early Christian Ireland.md",
-    "Templates",
-    "Sessions",
-    "Mindmap.md",
     "Timeline/Index.md",
-    "Factions/Religious/Catholic.md",
-    "Media/Images/Organisations/Religious/Roman Catholic Church.png",
     "Media2/Images/Roman Catholic Church.png",
-    "Factions/Religious/Protestant.md",
     "Untitled.canvas"
   ]
 }

@@ -3,7 +3,7 @@
 markmap:
   height: 938
 ---
-# Ulster at Night
+# [[Ulster at Night]]
 ## History
 ### [ ] Old history (before 1900)
 ### [ ] Recent-ish history (1900-1966)
