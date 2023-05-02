@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a676a233c6ef10b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/Ian Paisley.md",
+                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +139,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/Ian Paisley.md",
+                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/Ian Paisley.md"
+                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md"
               }
             }
           },
@@ -167,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +193,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "36fc611a1e4d1edc",
+  "active": "6a676a233c6ef10b",
   "lastOpenFiles": [
+    "Factions/Political/Ulster Protestant Action.md",
+    "Factions/Political/Protestant Unionist Party.md",
+    "Factions/Political/Democratic Unionist Party.md",
+    "World Features/Peace walls.md",
+    "People/Ian Paisley.md",
     "Timelines/The Troubles/1969/August/August 1969 riots.md",
     "Timelines/Timeline.md",
-    "People/Ian Paisley.md",
     "Media/Images/Events/1969/Police clash with rioters in Bogside district in Derry.jpg",
     "Media/Images/Events/1969/Pasted image 20230501215016.jpg",
     "Media/Images/Events/1969",
@@ -198,12 +213,9 @@
     "Media/Images/Organisations/Religious/Free Presbyterian Church of Ulster.png",
     "Media/Images/Organisations/Untitled.md",
     "Media/Images/Organisations/Religious",
-    "Factions/Political/Protestant Unionist Party.md",
-    "Factions/Political/Ulster Protestant Action.md",
     "Ian Paisley.jpg.md",
     "DUP.md",
     "PUP.md",
-    "Factions/Political/Democratic Unionist Party.md",
     "Media/Images/Organisations/Democratic Unionist Party.png",
     "Media/Images/Organisations",
     "Media/Images/People/Ian Paisley.jpg",
