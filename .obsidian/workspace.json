@@ -42,6 +42,150 @@
             }
           },
           {
+            "id": "f0c4a882d8c65877",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1920/Government of Ireland Act 1920.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d98f1606ab0dec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1914/Government of Ireland Act 1914.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "249ed655601a96e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1969/August/August 1969 riots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e5982ba119ec17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions/Royal Ulster Constabulary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d24781be333704c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1949/Rename to Ireland.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65f1200c07ca9bae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1949/Ireland Act 1949.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6dd233a72f09807d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1949/Ireland Act 1949.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43496d54fc1b7c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1948/The Republic of Ireland Act 1948.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25add6e531a62724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/1956/Border campaign (Irish Republican Army).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69e5f9d3ce106bd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geography/Cities/Derry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9ff05fa5987f81c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ulster at Night.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3513afbdbb4c79a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timelines/The Troubles/Timeline of The Troubles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c72e664a77a6bc03",
             "type": "leaf",
             "state": {
@@ -54,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -120,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ulster at Night.md",
+                "file": "Timelines/The Troubles/Timeline of The Troubles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +281,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ulster at Night.md",
+                "file": "Timelines/The Troubles/Timeline of The Troubles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -160,7 +304,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ulster at Night.md"
+                "file": "Timelines/The Troubles/Timeline of The Troubles.md"
               }
             }
           },
@@ -172,8 +316,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,49 +334,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "c664f94614c7aa7d",
+  "active": "3513afbdbb4c79a3",
   "lastOpenFiles": [
-    "Timelines/The Troubles/1972/January/Bloody Sunday.md",
-    "Media/Images/Events/1972/Edward_Daly_Bloody_Sunday.jpg",
-    "Timelines/The Troubles/1972/January",
-    "Timelines/The Troubles/1972",
+    "Timelines/The Troubles/1956/Border campaign (Irish Republican Army).md",
+    "Timelines/The Troubles/Timeline of The Troubles.md",
+    "Timelines/The Troubles/1949/Ireland Act 1949.md",
+    "Timelines/The Troubles/1949/Rename to Ireland.md",
+    "Timelines/The Troubles/1948/The Republic of Ireland Act 1948.md",
+    "Timelines/The Troubles/1921/First Northern Ireland Parliament.md",
     "Ulster at Night.md",
-    "Media/Images/Events/1972",
+    "Timelines/The Troubles/1920/Government of Ireland Act 1920.md",
+    "Timelines/The Troubles/1914/Government of Ireland Act 1914.md",
+    "Timelines/Timeline of Ireland.md",
+    "Geography/Cities/Brookeborough.md",
+    "Geography/Cities/Derry.md",
+    "Timelines/The Troubles/1956/Border campaign markers/Derry.md",
+    "Timelines/The Troubles/1956/Border campaign markers",
+    "Timelines/The Troubles/1969/August/August 1969 riots.md",
+    "Geography/Cities",
     "Geography/Northern Ireland.md",
-    "People/Ian Paisley.md",
-    "Ulster.md",
-    "Geography",
+    "Factions/Royal Ulster Constabulary.md",
+    "Media/Images/Events/1956",
+    "Media/Images/Places",
+    "Timelines/The Troubles/1956",
+    "Timelines/The Troubles/1948",
+    "Factions/Political/Irish Parliament.md",
+    "Timelines/The Troubles/1949",
+    "Mindmap.md",
     "Factions/Political/Ulster Protestant Action.md",
-    "Factions/Religious/Catholic.md",
     "Factions/Political/Protestant Unionist Party.md",
     "Factions/Political/Democratic Unionist Party.md",
+    "People/Ian Paisley.md",
+    "Media/Images/Organisations/RUC Flag.png",
+    "Media/Images/Organisations/RUC Badge.png",
+    "Media/Images/Organisations/Military",
+    "Factions/Military",
+    "Factions/Law Enforcement",
+    "Media/Images/Organisations/Political/Coat of Arms of United Kingdom (1832-1957).png",
+    "Timelines/The Troubles/1972/January/Bloody Sunday.md",
+    "Media/Images/Events/1972/Edward_Daly_Bloody_Sunday.jpg",
+    "Ulster.md",
+    "Factions/Religious/Catholic.md",
     "Factions/Religious/Protestant.md",
     "Media/Images/Organisations/Religious/Free Presbyterian Church of Ulster.png",
     "Media/Images/Organisations/Religious/Roman Catholic Church.png",
-    "Timelines/Timeline.md",
-    "Timelines/Ireland/Early Christian Ireland.md",
     "Media/Images/People/Ian Paisley.jpg",
-    "Timelines/The Troubles/1998/May/Good Friday Agreement.md",
-    "Timelines/The Troubles/1998/May",
-    "Timelines/The Troubles/1998.md",
-    "Timelines/The Troubles/1998",
-    "Mindmap.md",
-    "Timelines/The Troubles/1969/August/August 1969 riots.md",
-    "World Features/Peace walls.md",
     "Media/Images/Events/1969/Police clash with rioters in Bogside district in Derry.jpg",
     "Media/Images/Events/1969/Pasted image 20230501215016.jpg",
-    "Media/Images/Events/1969",
-    "Media/Images/Events",
-    "Timelines/The Troubles/1969/August",
-    "Timelines/The Troubles/1969",
-    "Media/Images/Organisations/Untitled.md",
-    "Ian Paisley.jpg.md",
-    "DUP.md",
-    "PUP.md",
-    "Media/Images/Organisations/Democratic Unionist Party.png",
-    "Sessions/Session 0.md",
-    "Timeline/Index.md",
-    "Media2/Images/Roman Catholic Church.png",
+    "Media/Images/Organisations/Political/Democratic Unionist Party.png",
     "Untitled.canvas"
   ]
 }

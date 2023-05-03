@@ -6,7 +6,7 @@
 > | ---- | ---- | 
 > | In office | 8 May 2007 - 5 June 2008 | 
 > | Preceded by | [[David Trimble]] (2002) | 
-> | Succeeded by | [[Peter Robinson]]
+> | Succeeded by | [[Peter Robinson]] |
 >
 >##### Leader of the [[Democratic Unionist Party]]
 >| | |

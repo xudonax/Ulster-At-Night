@@ -13,7 +13,7 @@ During 12–16 August 1969, there was an outbreak of political and sectarian vio
 
 ## Timeline
 > [!timeline|t-l] **12 August**
-> The [[Apprentice Boys of Derry]], an organisation similar to the [[Orange Order]], wished to stage its traditional march in Londonderry. Early skirmishes between [[Catholic|Catholics]] and [[Protestant|Protestants]] escalated into what would came to be known as the [[August 1969 riots#Battle of the Bogside|Battle of the Bogside]].
+> The [[Apprentice Boys of Derry]], an organisation similar to the [[Orange Order]], wished to stage its traditional march in [[Londonderry]]. Early skirmishes between [[Catholic|Catholics]] and [[Protestant|Protestants]] escalated into what would came to be known as the [[August 1969 riots#Battle of the Bogside|Battle of the Bogside]].
 >
 >It took the form of pitched battles between police and local men and youths using petrol bombs, bricks, and any other missiiles they could find to prevent the [[Royal Ulster Constabulary|RUC]] from entering the district.
 

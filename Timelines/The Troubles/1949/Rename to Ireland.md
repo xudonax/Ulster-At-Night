@@ -1,0 +1,1 @@
+The south of [[Ireland]] renamed itself from "Irish Free State" to Ireland.

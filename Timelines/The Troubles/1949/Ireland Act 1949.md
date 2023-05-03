@@ -1,0 +1,1 @@
+The Ireland Act 1949 is an Act of the Parliament of the United Kingdom intended to deal with the consequences of the [[Republic of Ireland Act 1948]] as passed by the [[Irish parliament]], the [[Irish Parliament|Oireachtas]].
