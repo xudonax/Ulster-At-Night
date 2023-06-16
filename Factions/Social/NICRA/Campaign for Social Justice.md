@@ -1,0 +1,15 @@
+---
+aliases:
+  - CSJ
+---
+The **Campaign for Social Justice** (CSJ) was an organisation based in [[Northern Ireland]] which campaigned for civil rights in that region.
+
+The CSJ was inaugurated on 17 January 1964 in Dungannon, County Tyrone, by [[Patricia McCluskey]], who became its first chairwoman, and her husband, local general practitionerDr [[Conn McCluskey]]. The couple had in 1963 established a Homeless Citizens' League to campaign against discrimination in the allocation of public housing. The CSJ was established, according to the founding statement, for "the purpose of bringing the light of publicity to bear on the discrimination which exists in our community against the Catholic section of that community representing more than one-third of the total population". The CSJ literature reached a large audience in Britain and the organization became affiliated with the [[British Labor Party]] and the National Conference for Civil Liberties (NCCL) in London. The NCCL helped form the [[Northern Ireland Civil Rights Association]] in 1967.
+
+## Founding statement
+>The Campaign for Social Justice in Northern Ireland was inaugurated on 17th January, 1964, for the purpose of bringing the light of publicity to bear on the discrimination which exists in our community against the Catholic section of that community representing more than one-third of the total population. 
+>We announced at a formal Press Conference in Belfast on the same date our intention to use all necessay means at our disposal for the dissemination of factual information about discriminatory practices exercised against our people in employment provided by central and local government agencies and also in housing provided by public funds. Accordingly, when the Prime Minister of the United Kingdom, the Right Hon. Sir Alec Douglas Home, M. P., visited Northern Ireland in the month of March this year and stated in reply to questions at a Belfast Press Conference, and later when interviewed on television, that recourse could be had to the courts in matters of complaint regarding religious discrimination, we felt compelled to give this important statement the fullest consideration. 
+>We believed that the Prime Minister of the United Kingdom would not make such a statement without due consideration and knowledge. The Campaign Committee therefore immediately consulted eminent legal authority, only to be informed “that the discrimination practised by local authorities is not capable of review by the courts under the terms of the [[Government of Ireland Act 1920]] or any other statutory provisions”. 
+>As this same [[Government of Ireland Act 1920]] empowers the British Government to intervene decisively in the affairs of Northern Ireland, the committee felt that the British Prime Minister should be approached and asked to give the legal basis for his statement. We present herewith the correspondence which ensued.
+
+See also the [PDF version](http://cain.ulst.ac.uk/events/crights/pdfs/csj85.pdf) containing letters to and from the British [[Prime Minister]]

@@ -1,0 +1,7 @@
+**Clan** Ventrue
+
+Lord Aidan O'Malley, the Ventrue prince of Derry, is a commanding and sophisticated figure who exudes authority and nobility. With a tall and imposing stature, he carries himself with an air of regal confidence befitting his position. Lord O'Malley possesses a keen intellect and an unwavering commitment to maintaining order and upholding the traditions of the Camarilla.
+
+Known for his shrewd political maneuvering, Lord O'Malley is a master strategist who skillfully navigates the intricate web of Kindred politics. He commands respect from his subjects, both through his impressive leadership skills and his ability to inspire loyalty. His ambition and desire for power are tempered by a deep sense of duty and responsibility to the Masquerade, ensuring the stability and security of his domain.
+
+Lord Aidan O'Malley is a formidable presence in the court, instilling both fear and admiration among the Kindred of Derry. He is known to be a pragmatic and diplomatic ruler, carefully weighing the interests of his clan and the welfare of the city as a whole. Under his reign, Derry has flourished as a well-organized and prosperous domain, standing as a testament to Lord O'Malley's vision and leadership.

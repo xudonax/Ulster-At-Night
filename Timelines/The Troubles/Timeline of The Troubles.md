@@ -22,3 +22,20 @@
 >[!timeline|t-r] **February 1962** _End of the [[Border campaign (Irish Republican Army)]]_
 >The IRA border campaign officially ended.
 
+> [!timeline|t-l] **March 1963** [[Terrence O'Neill became Prime Minister]] of [[Northern Ireland]]
+> Previously the [[Minister of Home Affairs]] and [[Minister of Finance]], he would be appointed [[Prime Minister]] of [[Northern Ireland]] in March 1963.
+
+> [!timeline|t-r] **June 1963** The [[The Protestant News Letter praised Pope John XXIII]]
+> [[John XXIII]] instituted widespread reforms within [[Catholic|Catholicism]] and encouraged ecumenical activity.
+
+>[!timeline|t-l] **September 1963** [[Brian Faulkner denies accusations of trying to oust O'Neill]]
+>In selecting [[Terence O'Neill|O'Neill]] the [[Democratic Unionist Party]] had passed over a more able and much more ambitious rival in the cabinet in the form of [[Brian Faulkner]]. He denied every accusation of this.
+
+>[!timeline|t-r] **January 1964** [[Campaign for Social Justice]]
+>The [[Campaign for Social Justice]] was founded in [[Dungamon]], County Tyrone
+
+>[!timeline|t-l] **August 1964** Stormont recognises the Northern Committee of the ICTU
+>The ICTU (Irish Congress of Trade Unions) is a national trade union centre, the umbrella organisation to which trade unions in both the Republic of Ireland and Northern Ireland affiliate.
+
+>[!timeline|t-r] **aaaah**
+
